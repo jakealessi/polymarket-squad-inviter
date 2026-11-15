@@ -1,0 +1,13 @@
+{
+  "udid": "IPHONE_HARDWARE_UDID",
+  "team_id": "APPLE_DEVELOPER_TEAM_ID",
+  "wda_bundle_id": "YOUR_WDA_BUNDLE_ID",
+  "state_dir": ".squad-inviter",
+  "jobs": [
+    {
+      "id": "example-alex",
+      "prefix": "alex",
+      "squad": "Example Squad"
+    }
+  ]
+}
