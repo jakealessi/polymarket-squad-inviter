@@ -1,0 +1,24 @@
+<AppiumAUT>
+  <XCUIElementTypeApplication x="0" y="0" width="402" height="874" bundleId="com.polymarket.ios-app">
+    <XCUIElementTypeOther x="0" y="0" width="402" height="874" name="cui.screen.squads">
+      <XCUIElementTypeCollectionView x="0" y="170" width="402" height="670">
+        <XCUIElementTypeCell x="0" y="355" width="402" height="74">
+          <XCUIElementTypeButton x="24" y="374" width="200" height="40" name="cui.button.squad-invites" />
+        </XCUIElementTypeCell>
+        <XCUIElementTypeCell x="0" y="429" width="402" height="119">
+          <XCUIElementTypeStaticText x="75" y="449" width="225" height="20" label="The Apples" />
+        </XCUIElementTypeCell>
+        <XCUIElementTypeCell x="0" y="552" width="402" height="119">
+          <XCUIElementTypeStaticText x="75" y="572" width="225" height="20" label="The Oranges" />
+        </XCUIElementTypeCell>
+        <XCUIElementTypeCell x="0" y="675" width="402" height="119">
+          <XCUIElementTypeStaticText x="75" y="695" width="225" height="20" label="The Limes" />
+        </XCUIElementTypeCell>
+        <XCUIElementTypeCell x="0" y="798" width="402" height="119">
+          <XCUIElementTypeStaticText x="75" y="818" width="225" height="20" label="The Pears" />
+        </XCUIElementTypeCell>
+      </XCUIElementTypeCollectionView>
+    </XCUIElementTypeOther>
+    <XCUIElementTypeButton x="282" y="797" width="78" height="40" name="cui.tabBar.item.squads" />
+  </XCUIElementTypeApplication>
+</AppiumAUT>

@@ -1,0 +1,52 @@
+<AppiumAUT>
+  <XCUIElementTypeApplication x="0" y="0" width="402" height="874" bundleId="com.polymarket.ios-app">
+    <XCUIElementTypeStaticText x="110" y="45" width="182" height="24" label="Example Squad" />
+    <XCUIElementTypeOther x="100" y="82" width="202" height="44" label="Find Friends" />
+    <XCUIElementTypeTextField x="20" y="134" width="362" height="48" value="chris" />
+    <XCUIElementTypeCollectionView x="0" y="182" width="402" height="588">
+      <XCUIElementTypeCell x="0" y="258" width="402" height="28" label="20 on Polymarket" />
+      <XCUIElementTypeCell x="0" y="291" width="402" height="52" name="cui.listRow.contact-example-1">
+        <XCUIElementTypeStaticText x="76" y="303" width="260" height="18" label="chris.01" />
+        <XCUIElementTypeButton x="348" y="301" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="343" width="402" height="52" name="cui.listRow.contact-example-2">
+        <XCUIElementTypeStaticText x="76" y="355" width="260" height="18" label="chris.02" />
+        <XCUIElementTypeButton x="348" y="353" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="395" width="402" height="52" name="cui.listRow.contact-example-3">
+        <XCUIElementTypeStaticText x="76" y="407" width="260" height="18" label="chris.03" />
+        <XCUIElementTypeButton x="348" y="405" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="447" width="402" height="52" name="cui.listRow.contact-example-4">
+        <XCUIElementTypeStaticText x="76" y="459" width="260" height="18" label="chris.04" />
+        <XCUIElementTypeButton x="348" y="457" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="499" width="402" height="52" name="cui.listRow.contact-example-5">
+        <XCUIElementTypeStaticText x="76" y="511" width="260" height="18" label="chris.05" />
+        <XCUIElementTypeButton x="348" y="509" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="551" width="402" height="52" name="cui.listRow.contact-example-6">
+        <XCUIElementTypeStaticText x="76" y="563" width="260" height="18" label="chris.06" />
+        <XCUIElementTypeButton x="348" y="561" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="603" width="402" height="52" name="cui.listRow.contact-example-7">
+        <XCUIElementTypeStaticText x="76" y="615" width="260" height="18" label="chris.07" />
+        <XCUIElementTypeButton x="348" y="613" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="655" width="402" height="52" name="cui.listRow.contact-example-8">
+        <XCUIElementTypeStaticText x="76" y="667" width="260" height="18" label="chris.08" />
+        <XCUIElementTypeButton x="348" y="665" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="707" width="402" height="52" name="cui.listRow.contact-example-9">
+        <XCUIElementTypeStaticText x="76" y="719" width="260" height="18" label="chris.09" />
+        <XCUIElementTypeButton x="348" y="717" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="759" width="402" height="52" name="cui.listRow.contact-example-10">
+        <XCUIElementTypeStaticText x="76" y="771" width="260" height="18" label="chris.10" />
+        <XCUIElementTypeButton x="348" y="769" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+    </XCUIElementTypeCollectionView>
+    <XCUIElementTypeButton x="20" y="790" width="362" height="42" label="Invite 1" />
+    <XCUIElementTypeButton x="40" y="200" width="42" height="27" name="cui.iconButton.remove-example-anchor" />
+  </XCUIElementTypeApplication>
+</AppiumAUT>

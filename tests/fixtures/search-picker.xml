@@ -1,0 +1,30 @@
+<AppiumAUT>
+  <XCUIElementTypeApplication x="0" y="0" width="402" height="874" bundleId="com.polymarket.ios-app">
+    <XCUIElementTypeStaticText x="110" y="45" width="182" height="24" label="The Mikes" />
+    <XCUIElementTypeOther x="100" y="82" width="202" height="44" label="Find Friends" />
+    <XCUIElementTypeTextField x="20" y="134" width="362" height="48" value="mike" />
+    <XCUIElementTypeCollectionView x="0" y="182" width="402" height="692">
+      <XCUIElementTypeCell x="0" y="278" width="402" height="28" label="5 on Polymarket" />
+      <XCUIElementTypeCell x="0" y="311" width="402" height="52" name="cui.listRow.contact-example-1">
+        <XCUIElementTypeStaticText x="76" y="323" width="260" height="18" label="mike.01" />
+        <XCUIElementTypeButton x="348" y="321" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="363" width="402" height="52" name="cui.listRow.contact-example-2">
+        <XCUIElementTypeStaticText x="76" y="375" width="260" height="18" label="mike.02" />
+        <XCUIElementTypeButton x="348" y="373" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="415" width="402" height="52" name="cui.listRow.contact-example-3">
+        <XCUIElementTypeStaticText x="76" y="427" width="260" height="18" label="mike.03" />
+        <XCUIElementTypeButton x="348" y="425" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="467" width="402" height="52" name="cui.listRow.contact-example-4">
+        <XCUIElementTypeStaticText x="76" y="479" width="260" height="18" label="mike.04" />
+        <XCUIElementTypeButton x="348" y="477" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+      <XCUIElementTypeCell x="0" y="519" width="402" height="52" name="cui.listRow.contact-example-5">
+        <XCUIElementTypeStaticText x="76" y="531" width="260" height="18" label="mike.05" />
+        <XCUIElementTypeButton x="348" y="529" width="22" height="22" value="0" />
+      </XCUIElementTypeCell>
+    </XCUIElementTypeCollectionView>
+  </XCUIElementTypeApplication>
+</AppiumAUT>
