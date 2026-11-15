@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+/.squad-inviter/
+/queue.local.json
+/squad-invites-*.json
+/work/
+/wda-derived/
+*.lock
+*.log
+*.tmp
+*.xcresult/
